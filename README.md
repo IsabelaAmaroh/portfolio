@@ -11,6 +11,8 @@
 
 * Flex-box
 
+* Media Queries
+
 ## Feito por:
 
 ### Isabela Amaro
